@@ -1,0 +1,32 @@
+/* section1 */
+.banner-section {
+    width: 1280px;
+    height: 900px;
+    display: flex;
+
+}
+.banner-wraper {
+    width: 100%;
+    height: auto;
+    display: flex;
+}
+.banner-section .flex-header {
+    width: 345px;
+    align-items: flex-end;
+}
+.logo {
+    align-items: flex-start;
+}
+.flex-container {
+    display: flex;
+}
+.flex-header div {
+    color: #D9F0FF;
+    font-size: 12px;
+    margin: 22px;
+    text-align: center;
+    line-height: 17px;
+}
+h1 {
+    align-items: center;
+}
